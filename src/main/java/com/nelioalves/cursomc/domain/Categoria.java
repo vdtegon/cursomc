@@ -1,3 +1,5 @@
+// Categoria.java
+
 package com.nelioalves.cursomc.domain;
 
 import java.io.Serializable;
@@ -66,7 +68,5 @@ public class Categoria implements Serializable {
 			return false;
 		return true;
 	}
-
-	
 	
 }
